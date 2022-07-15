@@ -80,4 +80,4 @@ updater.dispatcher.add_handler(MessageHandler(Filters.text, unknown_text))
 
 updater.start_polling()
 
-updater.bot.setWebhook('https://tecroominfo.herokuapp.com/' + updater)
+updater.bot.setWebhook('https://tecroom-info.herokuapp.com/' + updater)
