@@ -1,1 +1,1 @@
-# info-bot
+# Info Bot
