@@ -43,4 +43,4 @@ To run the bot, change the `"BOT_TOKEN"` string in the line <a href="https://git
 
 ## License
 
-See the `"LICENSE"` file for license rights and limitations (MIT).
+See the `LICENSE` file for license rights and limitations (MIT).
