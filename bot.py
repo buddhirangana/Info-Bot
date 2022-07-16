@@ -5,10 +5,7 @@ from telegram.ext.commandhandler import CommandHandler
 from telegram.ext.messagehandler import MessageHandler
 from telegram.ext.filters import Filters
 
-import os
-PORT = int(os.environ.get('PORT', 5000))
-
-TOKEN = '5416619368:AAFjAvpRXY4soHfSFJjOcO0cI6e3NwJRiKI'
+TOKEN = 'BOT_TOKEN'
 updater = Updater(TOKEN, use_context=True)
 
 def start(update: Update, context: CallbackContext):
