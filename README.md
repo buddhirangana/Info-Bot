@@ -2,6 +2,10 @@
 
 TEC ROOM official website and all other social media links are available through this bot.
 
+## Requirements
+- python 3
+- [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
+
 ## Installation
 
 Install this module via pip and conda with the below command.
@@ -12,6 +16,11 @@ pip install python-telegram-bot
 
 # installing via conda
 conda install -c conda-forge python-telegram-bot
+```
+
+Run the program.
+```
+python3 bot.py
 ```
 
 ## Usage
